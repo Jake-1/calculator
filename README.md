@@ -1,13 +1,13 @@
 # Calculator
 
-A very simple calculator, built as a Progressive Web App.
+A very simple calculator, built as a Progressive Web App. Try it [here](https://jake-1.github.io/calculator)
 
 ## Features
 
-- list features here
+- Uses localStorage to save memory
 
 ### Changelog
 
-**Version x.x.x**
+**Version 1.0.0**
 
-- insert changes here
+- fix clear memory
