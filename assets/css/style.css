@@ -2,7 +2,7 @@
 
 /* Calculator Box */
 body {
-	background-color: black;
+	background-image: black;
 	margin: 0px;
 	height: 80vh;
 	-webkit-user-select: none;
@@ -49,13 +49,13 @@ body {
 }
 .button.function {
 	color: black;
-	background-color: #FAB21B;
+	background-color: #FF5A0D;
 	border-bottom: black 8px solid;
-	border-top: 4px #FA5E1B solid;
+	border-top: 4px #E8340C solid;
 }
 .button.operator {
 	color: black;
-	background-color: #FAB21B;
+	background-color: #FAEC17;
 	border-bottom: black 8px solid;
 	border-top: 4px #FF130C solid;
 }
